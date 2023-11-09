@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/yogeesh100" target="blank"><img src="https://img.shields.io/twitter/follow/yogeesh100?logo=twitter&style=for-the-badge" alt="yogeesh100" /></a> </p>
 
-- 🔭 I’m currently working on **a full stack booking app**
+- 🔭 I’m currently working on **a full stack live streaming app using webrtc react and node**
 
-- 🌱 I’m currently learning **Java, Spring**
+- 🌱 I’m currently learning **React, Node, Next and webrtc**
 
 - 💬 Ask me about **React, Node, Express**
 
@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1hiIyQeT_FM_7yq7Ud9_7YscA2qNnsVq4/view?usp=drive_link](https://drive.google.com/file/d/1hiIyQeT_FM_7yq7Ud9_7YscA2qNnsVq4/view?usp=drive_link)
 
-- ⚡ Fun fact **The world is doomed coz of AI**
+- ⚡ Fun fact **The first commit to the GitHub repository was for a Ruby on Rails tutorial.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
