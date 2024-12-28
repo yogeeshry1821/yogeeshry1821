@@ -13,9 +13,7 @@
 
 - 💬 Ask me about **React, Node, Express**
 
-- 📫 How to reach me **yogeeshyadappa100@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1hiIyQeT_FM_7yq7Ud9_7YscA2qNnsVq4/view?usp=drive_link](https://drive.google.com/file/d/1hiIyQeT_FM_7yq7Ud9_7YscA2qNnsVq4/view?usp=drive_link)
+- 📫 How to reach me **yogeeshyadappa100@gmail.com
 
 - ⚡ Fun fact **The first commit to the GitHub repository was for a Ruby on Rails tutorial.**
 
@@ -33,4 +31,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yogeeshry1821&show_icons=true&locale=en" alt="yogeeshry1821" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yogeeshry1821&" alt="yogeeshry1821" /></p>
