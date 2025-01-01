@@ -1,11 +1,7 @@
-<h1 align="center">Hi 👋, I'm Yogeesh</h1>
-<h3 align="center">A passionate full stack developer</h3>
+<h1 align="center">Hi there👋, I'm Yogeesh</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yogeeshry1821&label=Profile%20views&color=0e75b6&style=flat" alt="yogeeshry1821" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yogeeshry1821" alt="yogeeshry1821" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/yogeesh100" target="blank"><img src="https://img.shields.io/twitter/follow/yogeesh100?logo=twitter&style=for-the-badge" alt="yogeesh100" /></a> </p>
+<h3 align="center">Full stack developer</h3>
+I am a professional Full Stack Developer, who is always committed to his work and goals. I am also a fast learner and passionate about implementing and launching new projects and ideas. I am quite fond of open-source software and always trying to find a way to contribute to it.
 
 - 🔭 I’m currently working on **a full stack live streaming app using RTMP, Go, React and Node**
 
@@ -17,16 +13,61 @@
 
 - ⚡ Fun fact **The first commit to the GitHub repository was for a Ruby on Rails tutorial.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/yogeesh100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yogeesh100" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yogeeshy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yogeeshy" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/yogeesh_100" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="yogeesh_100" height="30" width="40" /></a>
-</p>
+[![NirZak Profile Views](https://github.com/Nirzak/nirzak-profile-views/blob/master/svg/profile/badge.svg)](https://github.com/Nirzak/nirzak-profile-views)
+[![Metrics](https://github.com/Nirzak/Nirzak/actions/workflows/metrics.yml/badge.svg)](https://github.com/Nirzak/Nirzak/actions/workflows/metrics.yml)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yogeeshry1821&show_icons=true&locale=en&layout=compact" alt="yogeeshry1821" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yogeeshry1821&show_icons=true&locale=en" alt="yogeeshry1821" /></p>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yogeeshry1821&theme=dark&hide_border=true)](https://git.io/streak-stats)
+<a href="https://www.linkedin.com/in/yogeeshy/">
+  <img align="left" alt="Yogeesh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/nirzak/nirzak/main/Assets/linkedin.svg" />
+</a>
+<a href="[https://stackoverflow.com/users/20716880/yogeesh]">
+  <img align="left" alt="Yogeesh's StackOverflow" width="22px" src="https://raw.githubusercontent.com/nirzak/nirzak/main/Assets/stack.svg" />
+</a>
+<a href="https://yogeesh.medium.com/">
+  <img align="left" alt="Yogeesh's Medium" width="22px" src="https://raw.githubusercontent.com/nirzak/nirzak/main/Assets/medium.svg" />
+</a>
+<a href="https://twitter.com/yogeesh100">
+  <img align="left" alt="Yogeesh's Twitter" width="22px" src="https://raw.githubusercontent.com/nirzak/nirzak/main/Assets/twitter.svg" />
+</a>
+<a href="https://dev.to/yogeesh">
+  <img align="left" alt="Yogeesh's DevTo" width="22px" src="https://raw.githubusercontent.com/nirzak/nirzak/main/Assets/devto.svg" />
+</a>
 
+<br>
+
+## ⚙️ Languages
+![C++](https://img.shields.io/badge/c++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=00599C)
+![Python](https://img.shields.io/badge/python-%3776AB.svg?style=for-the-badge&logo=python&logoColor=white&color=3776AB)
+![Java](https://img.shields.io/badge/java-%7396.svg?style=for-the-badge&logo=java&logoColor=white&color=007396)
+![PHP](https://img.shields.io/badge/php-%777BB4.svg?style=for-the-badge&logo=php&logoColor=white&color=777BB4)
+![MySQL](https://img.shields.io/badge/mysql-%4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%3776AB.svg?style=for-the-badge&logo=bootstrap&logoColor=white&color=563D7C)
+![Scikit-Learn](https://img.shields.io/badge/Scikit-Learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white&color=F7931E)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+⚙️ Tools & Technologies
+
+![Docker](https://img.shields.io/badge/docker-blue.svg?style=for-the-badge&logo=docker&logoColor=white&color=blue)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+⚙️ Servers
+
+![Nginx](https://img.shields.io/badge/NGINX-019137?style=for-the-badge&logo=nginx&logoColor=white)
+
+⚙️ Platforms
+
+![Windows](https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=windows&logoColor=black&color=0078D6)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-%FCC624.svg?style=for-the-badge&logo=linux&logoColor=black&color=FCC624)
+![GIT](https://img.shields.io/badge/git-%3776AB.svg?style=for-the-badge&logo=git&logoColor=white&color=F05032)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&color=007ACC)
+
+## &#x1f4c8; GitHub Stats
+
+<p align=left>
+      <img  width=400 src="https://nirzak-streak-stats.vercel.app/?user=yogeeshry1821&theme=tokyonight&hide_border=true" alt="Yogeesh Readme Streak" />
+      <img  width=400 src="https://nirzak-stats.vercel.app/api?username=yogeeshry1821&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=86400" alt="Yogeesh's Readme Stats" />
+</p> 
+
+<!-- <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogeeshry1821&theme=tokyonight&layout=compact&langs_count=6&hide=tex,Yacc,Lex, html, jupyter%20notebook, css, EJS, blade&count_private=true" alt="nirzak_stats" /> -->
+![Github Trophies](https://nirzak-trophies.vercel.app/?username=yogeeshry1821&theme=gruvbox&row=2&column=5&margin-h=2&margin-w=2&no-frame=true&count_private=true)
