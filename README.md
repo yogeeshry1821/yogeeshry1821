@@ -64,10 +64,5 @@ I am a professional Full Stack Developer, who is always committed to his work an
 
 ## &#x1f4c8; GitHub Stats
 
-<p align=left>
-      <img  width=400 src="https://nirzak-streak-stats.vercel.app/?user=yogeeshry1821&theme=tokyonight&hide_border=true" alt="Yogeesh Readme Streak" />
-      <img  width=400 src="https://nirzak-stats.vercel.app/api?username=yogeeshry1821&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=86400" alt="Yogeesh's Readme Stats" />
-</p> 
-
 <!-- <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogeeshry1821&theme=tokyonight&layout=compact&langs_count=6&hide=tex,Yacc,Lex, html, jupyter%20notebook, css, EJS, blade&count_private=true" alt="nirzak_stats" /> -->
 ![Github Trophies](https://nirzak-trophies.vercel.app/?username=yogeeshry1821&theme=gruvbox&row=2&column=5&margin-h=2&margin-w=2&no-frame=true&count_private=true)
